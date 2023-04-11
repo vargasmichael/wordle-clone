@@ -1,6 +1,6 @@
 # wordle-clone
 
-# This is a simple clone of the popular wordle game. 
+ This is a simple clone of the popular wordle game. 
 
 # In this game you can:
 # Make a username and password to track your scores
